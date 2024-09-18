@@ -1,8 +1,8 @@
 # openai_instructor
 
 Output
-#python app.py 
-RkGmby8VkS54b-B2R_JbTIOraPdH8A
+[hostname]# python app.py 
+
 Title: Don Quixote
 Author: Cervantes, Miguel de
 Publisher: Francisco de Robles
