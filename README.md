@@ -2,6 +2,10 @@
 
 Output
 [hostname]# python app.py 
+
+* Uses gpt-4o-mini-2024-07-18 LLM
+* Uses OpenAI APIs
+  
 ```
 Title: Don Quixote
 Author: Cervantes, Miguel de
