@@ -5,7 +5,8 @@ Output
 
 * Uses gpt-4o-mini-2024-07-18 LLM
 * Uses OpenAI APIs
-  
+
+## Output
 ```
 Title: Don Quixote
 Author: Cervantes, Miguel de
